@@ -1,3 +1,3 @@
 # bookshelf-apps
 This project is a submission project for IDCamp Dicoding submission 2022.
-Access the live demo at https://uptkomputer.xyz
+Access the live demo at <a href="https://faykarr-bookshelf.vercel.app/">faykarr-bookshelf.vercel.app</a>
